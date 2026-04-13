@@ -1,0 +1,43 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+
+# Node
+node_modules/
+package-lock.json
+
+# Assets
+assets/temp/
+assets/images/
+assets/voiceovers/
+output/
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Security
+credentials/
+.env
+
+# Logs and outputs
+logs/
+output/
+test_voice.mp3
+archive/
+credentials.md

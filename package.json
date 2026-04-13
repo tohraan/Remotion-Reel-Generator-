@@ -1,0 +1,17 @@
+{
+  "name": "instagram-reel-generator",
+  "version": "1.0.0",
+  "description": "Autonomous Instagram Reel generator using Python + Remotion",
+  "scripts": {
+    "render": "remotion render",
+    "preview": "remotion preview"
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.87",
+    "framer-motion": "^10.16.16",
+    "lucide-react": "^0.563.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "remotion": "^4.0.87"
+  }
+}

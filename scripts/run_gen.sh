@@ -1,0 +1,1 @@
+./venv/bin/python main.py --preset royal_chic --direct "Emails eating your time? Here's a basic AI fix. Set up auto-personalization for replies. Integrate with your existing tools collaboratively. No hype, just efficiency. DM 'EMAIL' for the setup guide!" > generation.log 2>&1
